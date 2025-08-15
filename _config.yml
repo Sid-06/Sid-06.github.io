@@ -1,5 +1,10 @@
 title: My Blog
-description: "Thoughts on physics, math, and computer science"
+description: "Physics, Math, and CS explorations"
 author: Your Name
 markdown: kramdown
+
 remote_theme: broccolini/swiss
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
